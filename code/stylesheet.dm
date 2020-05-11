@@ -92,6 +92,7 @@ h1.alert, h2.alert		{color: #000000;}
 .russian				{color: #635d17}
 .serbian				{color: #Ad6f1d}
 .jive					{color: #666666}
+<<<<<<< HEAD
 .alien					{color: #543354;}
 .tajaran				{color: #803B56;}
 .tajaran_signlang		{color: #941C1C;}
@@ -110,6 +111,9 @@ h1.alert, h2.alert		{color: #000000;}
 .rough					{font-family: "Trebuchet MS", cursive, sans-serif;}
 .say_quote				{font-family: Georgia, Verdana, sans-serif;}
 .scraptalk				{color: #AAAFB7;}
+=======
+.german					{color: #001FFF}
+>>>>>>> 982f51b... Adding more Oberthian flavor with german language (#4838)
 
 .interface				{color: #330033;}
 
